@@ -11,7 +11,7 @@ Awesome IT technology book.
 
 ## Objective-C
 ## Java
-* [Java核心技术卷1](Java/Java核心技术 卷1.pdf)
+* [Java核心技术 卷1：基础知识](Java/Java核心技术%20卷1.pdf)
 * [深入理解Java虚拟机：JVM高级特性与最佳实践](Java/深入理解Java虚拟机：JVM高级特性与最佳实践.pdf)
 * [Java并发编程实战](Java/Java并发编程实战.pdf)
 ## J2EE
