@@ -1,5 +1,6 @@
 # JustDoIT
 Awesome IT technology book.
+
 高质量计算机技术书籍。
 ## C/C++
 * [C和指针](C&C++/C和指针.pdf)
@@ -10,11 +11,11 @@ Awesome IT technology book.
 
 ## Objective-C
 ## Java
-* [Java核心技术 卷1](Java/Java核心技术 卷1.pdf)
+* [Java核心技术卷1](Java/Java核心技术 卷1.pdf)
 * [深入理解Java虚拟机：JVM高级特性与最佳实践](Java/深入理解Java虚拟机：JVM高级特性与最佳实践.pdf)
 * [Java并发编程实战](Java/Java并发编程实战.pdf)
 ## J2EE
-* [SPRING 实战](J2EE/SPRING 实战（第3版）.pdf)
+* [SPRING实战](J2EE/SPRING 实战.pdf)
 
 ## Javascript
 * [JavaScript语言精粹](Javascript/JavaScript语言精粹.pdf)
@@ -38,10 +39,10 @@ Awesome IT technology book.
 
 ## Network
 * [图解http](network/图解http)
-* [TCP IP详解 卷1：协议](network/TCP IP详解 卷1：协议.pdf)
-* [TCP IP详解 卷2：实现](network/TCP IP详解 卷2：实现.pdf)
-* [TCP IP详解 卷3：TCP事务协议，HTTP，NNTP和UNIX域协议](network/TCP IP详解 卷3：TCP事务协议，HTTP，NNTP和UNIX域协议.pdf)
+* [TCP IP详解 卷1：协议](network/TCP%20IP详解%20卷1：协议.pdf)
+* [TCP IP详解 卷2：实现](network/TCP%20IP详解%20卷2：实现.pdf)
+* [TCP IP详解 卷3：TCP事务协议，HTTP，NNTP和UNIX域协议](network/TCP%20IP详解%20卷3：TCP事务协议，HTTP，NNTP和UNIX域协议.pdf)
 
 
 ## Machine Learning
-* [计学习方法](MachineLearning/统计学习方法_李航)
+* [统计学习方法](MachineLearning/统计学习方法_李航.pdf)
