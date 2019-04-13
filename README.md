@@ -2,8 +2,8 @@
 Awesome IT technology book.
 高质量计算机技术书籍。
 ## C/C++
-* C和指针
-* C专家编程
+* [C和指针](C%26C%2B%2B/C和指针.pdf)
+* [C专家编程](C&C++/C专家编程.pdf)
 * C陷阱与缺陷
 * 深度探索C++对象模型
 * STL源码剖析
